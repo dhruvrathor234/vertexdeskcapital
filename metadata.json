@@ -1,0 +1,6 @@
+{
+  "name": "Vertex Desk Capital",
+  "description": "Performance-based funded trader program backing skilled traders with institutional capital on a transparent 50/50 profit-share model.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
